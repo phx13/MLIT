@@ -1,0 +1,31 @@
+<!--
+-->
+.indexMap {
+    height: 900px;
+    width: 100%;
+}
+
+.indexChartStyle {
+    height: 50%;
+    width: 100%;
+}
+
+.popover-body {
+    padding: 0;
+    width: 300px;
+}
+
+.projectInfoMap {
+    height: 400px;
+    width: 100%;
+}
+
+.projectInfo {
+    height: 400px;
+    width: 100%;
+}
+
+.projectChartStyle {
+    height: 400px;
+    width: 90%;
+}

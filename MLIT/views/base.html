@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <!-- Basic -->
+    <meta charset="utf-8">
+    <meta content="IE=edge" http-equiv="X-UA-Compatible">
+
+    <!-- Mobile Metas -->
+    <meta content="width=device-width, minimum-scale=1.0, maximum-scale=1.0, user-scalable=no" name="viewport">
+
+    <!-- Site Metas -->
+    <title>MLIT</title>
+
+    <!-- Site Icons -->
+    <link href="/images/icons/favicon.ico" rel="shortcut icon" type="image/x-icon">
+
+    <!-- Import CSS -->
+    <link href="/css/import_css/normalize.css" rel="stylesheet" type="text/css">
+    <link href="/css/import_css/bootstrap.min.css" rel="stylesheet" type="text/css">
+    <link href="/css/import_css/font-awesome.min.css" rel="stylesheet" type="text/css">
+
+    <!-- Site CSS -->
+    <link href="/css/custom_css/style.css" rel="stylesheet" type="text/css">
+    {% block heads %}
+    {% endblock %}
+</head>
+
+<body>
+
+<main>
+    {% block content %}
+    {% endblock %}
+</main>
+
+<!-- JS -->
+<script type="text/javascript" src="/js/import_js/jquery-3.6.0.min.js"></script>
+<script type="text/javascript" src="/js/import_js/bootstrap.bundle.min.js"></script>
+{% block scripts %}
+{% endblock %}
+</body>
+</html>

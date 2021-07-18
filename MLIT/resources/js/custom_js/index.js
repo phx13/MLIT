@@ -10,6 +10,84 @@ function initIndexMap() {
     onOverlayClick(popup);
 }
 
+function initTable() {
+    $('#btTable').bootstrapTable({
+        url: '/train/data/',  // 请求数据源的路由
+        dataType: "json",
+        pagination: true, //前端处理分页
+        singleSelect: false,//是否只能单选
+        search: true, //显示搜索框，此搜索是客户端搜索，不会进服务端，所以，个人感觉意义不大
+        // toolbar: '#toolbar-' + courseid, //工具按钮用哪个容器#}
+        striped: true, //是否显示行间隔色
+        cache: false, //是否使用缓存，默认为true，所以一般情况下需要设置一下这个属性（*）
+        pageNumber: 1, //初始化加载第10页，默认第一页
+        pageSize: 10, //每页的记录行数（*）
+        pageList: [10, 20, 50, 100], //可供选择的每页的行数（*）
+        strictSearch: true,//设置为 true启用 全匹配搜索，false为模糊搜索
+        // showColumns: true, //显示内容列下拉框
+        // showRefresh: true, //显示刷新按钮
+        minimumCountColumns: 2, //当列数小于此值时，将隐藏内容列下拉框
+        // clickToSelect: true, //设置true， 将在点击某行时，自动勾选rediobox 和 checkbox
+        // height: 500, //表格高度，如果没有设置height属性，表格自动根据记录条数决定表格高度
+        uniqueId: "id", //每一行的唯一标识，一般为主键列
+        showToggle: true, //是否显示详细视图和列表视图的切换按钮
+        // cardView: true, //是否显示详细视图
+        // detailView: true, //是否显示父子表，设置为 true 可以显示详细页面模式,在每行最前边显示+号#}
+        sidePagination: "client", //分页方式：client客户端分页，server服务端分页（*）
+        columns: [
+            {
+                title: "selectAll",
+                field: "select",
+                checkbox: true,
+                align: "center",
+                cellStyle: function () {
+                    $(".th-inner")[0].style.overflow = "inherit";
+                    return {css: {"overflow": "inherit"}}
+                }
+            }, {
+                field: 'id',
+                title: 'Id'
+            }, {
+                field: 'module',
+                title: 'Module'
+            }, {
+                field: 'question',
+                title: 'Question'
+            }, {
+                field: 'description',
+                title: 'Description'
+            }, {
+                field: 'type',
+                title: 'Type'
+            }, {
+                field: 'option',
+                title: 'Option',
+                formatter: function (value, row, index) {
+                    return value.split("|").join(" ");
+                }
+            }, {
+                field: 'answer',
+                title: 'Answer'
+            }, {
+                field: 'release_time',
+                title: 'Release Time'
+            }, {
+                field: 'operation',
+                title: 'Operation',
+                formatter: function (value, row, index) {
+                    return '<button class="btn btn-outline-primary" data-toggle="modal" data-target="#questionDetail" onclick="editQuestion(' + row.id + ')">edit</button>'
+                }
+            }, {
+                field: 'review',
+                title: 'Review',
+                formatter: function (value, row, index) {
+                    let reviewUrl = "{{ url_for('satisfaction_result_bp.question_review_result',id='questionId' ) }}".replace('questionId', row.id);
+                    return '<a class="btn btn-outline-primary" href="' + reviewUrl + '">review</a>'
+                }
+            }]
+    });
+}
+
 function initFeature() {
     $.when($.get('/data/')).done(function (data) {
         let points = data;

@@ -18,3 +18,17 @@ class GazNameModel(db.Model):
             return db.session.query(GazNameModel).all()
         except SQLAlchemyError:
             return 'server error'
+
+    @staticmethod
+    def search_all_locs():
+        try:
+            return db.session.query(GazNameModel.name).distinct().all()
+        except SQLAlchemyError:
+            return 'server error'
+
+    @staticmethod
+    def search_all_gpes():
+        try:
+            return db.session.query(GazNameModel.land_district).distinct().all()
+        except SQLAlchemyError:
+            return 'server error'

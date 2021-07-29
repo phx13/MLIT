@@ -18,6 +18,6 @@ class LocalityModel(db.Model):
     @staticmethod
     def search_all_locality():
         try:
-            return db.session.query(LocalityModel).distinct(LocalityModel.Locality).all()
+            return db.session.query(LocalityModel).group_by(LocalityModel.Locality).all()
         except SQLAlchemyError:
             return 'server error'

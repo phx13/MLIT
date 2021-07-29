@@ -1,11 +1,34 @@
-$(document).ready(function () {
-    initIndexMap();
-})
+// $(document).ready(function () {
+//     initIndexMap();
+// })
 
-let map = initMap(ol.proj.fromLonLat([-4.5263671875, 54.303704439898084]), 6);
+let map = initMap(ol.proj.fromLonLat([173.02613593120356, -41.55131689740276]), 6);
 
-function initIndexMap() {
-    initFeature();
+// map.on('singleclick', function (e) {
+//     alert(e.coordinate);
+//     alert(ol.proj.transform(e.coordinate, 'EPSG:3857', 'EPSG:4326'));
+//
+//     alert(map.getEventCoordinate(e.originalEvent));
+//     alert(ol.proj.transform(map.getEventCoordinate(e.originalEvent), 'EPSG:3857', 'EPSG:4326'));
+//
+//     var lonlat = map.getCoordinateFromPixel(e.pixel);
+//     alert(lonlat);
+//     alert(ol.proj.transform(lonlat, "EPSG:3857", "EPSG:4326"));
+// })
+
+function updateLocationData() {
+    let dataType = $('#updateDataSelect').val();
+    $("#updateDataBtn").attr("disabled", true);
+    $.get('/update/' + dataType + '/', function (data) {
+        alert('Update ' + dataType + ' data successfully');
+        $("#updateDataBtn").attr("disabled", false);
+    });
+}
+
+function displayLocationData() {
+    let dataType = $('#displayDataSelect').val();
+
+    initFeature(dataType);
     let popup = initOverlay();
     onOverlayClick(popup);
 }
@@ -88,9 +111,21 @@ function initTable() {
     });
 }
 
-function initFeature() {
-    $.when($.get('/data/')).done(function (data) {
-        let points = data;
+function initFeature(dataType) {
+    $('#totalCount').text("");
+    $('#recognizedCount').text("");
+    $('#geocodedCount').text("");
+    let currentLayers = map.getLayers()['array_'];
+    let layerCount = map.getLayers()['array_'].length;
+    if (layerCount > 1) {
+        map.removeLayer(currentLayers[layerCount - 1]);
+    }
+    $.when($.get('/display/' + dataType)).done(function (data) {
+        $('#totalCount').text(data["total_count"]);
+        $('#recognizedCount').text(data["recognized_count"]);
+        $('#geocodedCount').text(data["geocoded_count"]);
+
+        let points = data["etl_locations"];
         let iconFeatures = [];
         points.forEach(function (point) {
             for (let key in point) {
@@ -124,12 +159,13 @@ function initFeature() {
         });
 
         map.addLayer(vectorLayer);
+        alert('Display successfully');
     });
 }
 
 function flyTo(location, done) {
     let duration = 2000;
-    let zoom = 6;
+    let zoom = 7;
     let parts = 2;
     let called = false;
 
@@ -212,5 +248,23 @@ function onOverlayClick(popup) {
             let element = popup.getElement();
             $(element).popover('dispose');
         }
+    });
+}
+
+function trainModel() {
+    let modelType = $('#trainModelSelect').val();
+    $("#trainModelBtn").attr("disabled", true);
+    $.get('/train/model/' + modelType + '/', function (data) {
+        alert(data);
+        $("#trainModelBtn").attr("disabled", false);
+    });
+}
+
+function trainData() {
+    let dataType = $('#trainDataSelect').val();
+    $("#trainDataBtn").attr("disabled", true);
+    $.get('/train/data/' + dataType + '/', function (data) {
+        alert(data);
+        $("#trainDataBtn").attr("disabled", false);
     });
 }

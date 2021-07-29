@@ -1,0 +1,1456 @@
+{
+    "total_count": 1333,
+    "recognized_count": 421,
+    "geocoded_count": 207,
+    "etl_locations": [
+        {
+            "279308251": [
+                "174.1179523",
+                "-35.4114482",
+                "Tirohanga Stream, Bay of Islands-Whangaroa Community, Far North District, Northland, 0210, New Zealand / Aotearoa"
+            ]
+        },
+        {
+            "7816452891": [
+                "176.8143296",
+                "-39.6660863",
+                "Longlands, Hastings, Hastings District, Hawke's Bay, 4174, New Zealand / Aotearoa"
+            ]
+        },
+        {
+            "203228531": [
+                "174.2317068",
+                "-36.1094268",
+                "Papamoa Stream, Paparoa, Kaipara District, Northland, 0571, New Zealand / Aotearoa"
+            ]
+        },
+        {
+            "1597344885": [
+                "176.2848441",
+                "-37.6972583",
+                "Papamoa Beach, Tauranga, Tauranga City, Bay of Plenty, 3118, New Zealand / Aotearoa"
+            ]
+        },
+        {
+            "1682308599": [
+                "175.2862625",
+                "-38.7153583",
+                "Ongarue, Ruapehu District, Manawat\u016b-Whanganui, 3997, New Zealand / Aotearoa"
+            ]
+        },
+        {
+            "1682916836": [
+                "175.3154918",
+                "-38.6179019",
+                "Waimiha, Ruapehu District, Manawat\u016b-Whanganui, New Zealand / Aotearoa"
+            ]
+        },
+        {
+            "6611249353": [
+                "168.1435288",
+                "-46.8614557",
+                "Mamaku Point, Stewart Island/Rakiura Community, Southland District, Southland, 9818, New Zealand / Aotearoa"
+            ]
+        },
+        {
+            "895164537": [
+                "172.54832575082787",
+                "-43.5588853",
+                "Hikuwai, Christchurch, Halswell-Hornby-Riccarton Community, Christchurch City, Canterbury, New Zealand / Aotearoa"
+            ]
+        },
+        {
+            "1602098173": [
+                "176.4722334",
+                "-37.8255909",
+                "Pongakawa, Western Bay of Plenty District, Bay of Plenty, 3186, New Zealand / Aotearoa"
+            ]
+        },
+        {
+            "1682916836": [
+                "175.3154918",
+                "-38.6179019",
+                "Waimiha, Ruapehu District, Manawat\u016b-Whanganui, New Zealand / Aotearoa"
+            ]
+        },
+        {
+            "1448689686": [
+                "175.7717385",
+                "-38.8905969",
+                "Kuratau, Taup\u014d District, Waikato, New Zealand / Aotearoa"
+            ]
+        },
+        {
+            "281808775": [
+                "175.808974",
+                "-38.988791",
+                "Turangi, Taup\u014d District, Waikato, 3334, New Zealand / Aotearoa"
+            ]
+        },
+        {
+            "1602098173": [
+                "176.4722334",
+                "-37.8255909",
+                "Pongakawa, Western Bay of Plenty District, Bay of Plenty, 3186, New Zealand / Aotearoa"
+            ]
+        },
+        {
+            "757523474": [
+                "173.5775539",
+                "-35.0578855",
+                "Kenana River, Te Hiku Community, Far North District, Northland, New Zealand / Aotearoa"
+            ]
+        },
+        {
+            "863911226": [
+                "176.5293165",
+                "-37.8302821",
+                "Pukehina Station Road, Pukehina, Western Bay of Plenty District, Bay of Plenty, 3186, New Zealand / Aotearoa"
+            ]
+        },
+        {
+            "852207116": [
+                "175.6699473",
+                "-40.3412934",
+                "Te Matai Road, Kelvin Grove, Palmerston North City, Manawat\u016b-Whanganui, 4414, New Zealand / Aotearoa"
+            ]
+        },
+        {
+            "7816455813": [
+                "176.7632818",
+                "-39.5183768",
+                "Moteo, Hastings District, Hawke's Bay, New Zealand / Aotearoa"
+            ]
+        },
+        {
+            "698489229": [
+                "173.7691367",
+                "-41.3231283",
+                "Kaituna River, Havelock, Marlborough, 7100, New Zealand / Aotearoa"
+            ]
+        },
+        {
+            "4011949327": [
+                "175.8067159",
+                "-39.0760203",
+                "Rangipo, Taup\u014d District, Waikato, New Zealand / Aotearoa"
+            ]
+        },
+        {
+            "12235885": [
+                "169.27846513975302",
+                "-43.72823535",
+                "Lake Moeraki, Westland District, West Coast, New Zealand / Aotearoa"
+            ]
+        },
+        {
+            "162975552": [
+                "175.864235",
+                "-38.9549006",
+                "Korohe Road, Taup\u014d District, Waikato, New Zealand / Aotearoa"
+            ]
+        },
+        {
+            "102647213": [
+                "176.2572923718373",
+                "-38.14784505",
+                "Arawa Park Racecourse, Te Ngae Road, Fenton Park, Rotorua District, Bay of Plenty, 3010, New Zealand / Aotearoa"
+            ]
+        },
+        {
+            "86203129": [
+                "176.8596782",
+                "-39.4221741",
+                "Kaiangaroa Place, Bay View, Napier City, Hawke's Bay, 4104, New Zealand / Aotearoa"
+            ]
+        },
+        {
+            "784344743": [
+                "176.84985",
+                "-39.6183123",
+                "Evendon Road, Mahora, Hastings, Hastings District, Hawke's Bay, 4122, New Zealand / Aotearoa"
+            ]
+        },
+        {
+            "68169389": [
+                "174.96688482083016",
+                "-37.0679935",
+                "Keri Downs Park, Red Hill, Papakura, Auckland, New Zealand / Aotearoa"
+            ]
+        },
+        {
+            "166813375": [
+                "175.43202",
+                "-38.62988",
+                "Kokomiko Road, Ruapehu District, Manawat\u016b-Whanganui, New Zealand / Aotearoa"
+            ]
+        },
+        {
+            "816676484": [
+                "176.8279414",
+                "-39.6319928",
+                "Maraekakaho Road, Stortford Lodge, Hastings, Hastings District, Hawke's Bay, 4120, New Zealand / Aotearoa"
+            ]
+        },
+        {
+            "261175678": [
+                "176.8275856",
+                "-39.6322161",
+                "Maraekakaho Road, Stortford Lodge, Hastings, Hastings District, Hawke's Bay, 4120, New Zealand / Aotearoa"
+            ]
+        },
+        {
+            "1520262745": [
+                "176.2384895",
+                "-38.1050496",
+                "Kawaha Point, Rotorua District, Bay of Plenty, 3040, New Zealand / Aotearoa"
+            ]
+        },
+        {
+            "137933042": [
+                "176.2957739",
+                "-37.769745",
+                "Manoeka Road, Te Puke, Western Bay of Plenty District, Bay of Plenty, 3183, New Zealand / Aotearoa"
+            ]
+        },
+        {
+            "7812185828": [
+                "175.9053612",
+                "-38.5320529",
+                "Mokai, Taup\u014d District, Waikato, New Zealand / Aotearoa"
+            ]
+        },
+        {
+            "698489229": [
+                "173.7691367",
+                "-41.3231283",
+                "Kaituna River, Havelock, Marlborough, 7100, New Zealand / Aotearoa"
+            ]
+        },
+        {
+            "188578881": [
+                "174.8790407",
+                "-38.5926735",
+                "Ngatarawa Road, Waitomo District, Waikato, New Zealand / Aotearoa"
+            ]
+        },
+        {
+            "4933528738": [
+                "170.3437439",
+                "-43.6334374",
+                "Mount Tamaki, Mackenzie District, Canterbury, New Zealand / Aotearoa"
+            ]
+        },
+        {
+            "5683470463": [
+                "177.9237556",
+                "-38.5584015",
+                "Ormond, Gisborne, New Zealand / Aotearoa"
+            ]
+        },
+        {
+            "1602098172": [
+                "176.4116208",
+                "-37.8222844",
+                "Paengaroa, Western Bay of Plenty District, Bay of Plenty, New Zealand / Aotearoa"
+            ]
+        },
+        {
+            "530746954": [
+                "176.1030355",
+                "-38.6193992",
+                "Wairakei Village, Taup\u014d District, Waikato, New Zealand / Aotearoa"
+            ]
+        },
+        {
+            "3659089": [
+                "175.54013025609362",
+                "-39.2354258",
+                "Tongariro National Park, Ruapehu District, Manawat\u016b-Whanganui, New Zealand / Aotearoa"
+            ]
+        },
+        {
+            "285257128": [
+                "176.3585281",
+                "-38.2786079",
+                "Waimangu Road, Waimangu, Rotorua District, Bay of Plenty, New Zealand / Aotearoa"
+            ]
+        },
+        {
+            "3915762009": [
+                "176.0935797",
+                "-38.6336337",
+                "Wairakei Research Centre, Karetoto Road, Wairakei Village, Taup\u014d District, Waikato, 3377, New Zealand / Aotearoa"
+            ]
+        },
+        {
+            "179948214": [
+                "178.1861344",
+                "-38.4945661",
+                "Panikau Road, Gisborne, New Zealand / Aotearoa"
+            ]
+        },
+        {
+            "369049348": [
+                "176.26761847226805",
+                "-37.284625399999996",
+                "Lake Aroarotamahine, Bay of Plenty, New Zealand / Aotearoa"
+            ]
+        },
+        {
+            "28711603": [
+                "173.9301057",
+                "-41.4839057",
+                "\u014cpaoa River, Blenheim, Marlborough, 7301, New Zealand / Aotearoa"
+            ]
+        },
+        {
+            "71342860": [
+                "175.3257827",
+                "-38.0101564",
+                "Te Awamutu, Waipa District, Waikato, 3800, New Zealand / Aotearoa"
+            ]
+        },
+        {
+            "205139786": [
+                "173.7676834",
+                "-41.278597",
+                "Havelock, Marlborough, 7100, New Zealand / Aotearoa"
+            ]
+        },
+        {
+            "71342860": [
+                "175.3257827",
+                "-38.0101564",
+                "Te Awamutu, Waipa District, Waikato, 3800, New Zealand / Aotearoa"
+            ]
+        },
+        {
+            "1525483559": [
+                "173.7866956",
+                "-35.0058954",
+                "Tauranga Bay, Bay of Islands-Whangaroa Community, Far North District, Northland, New Zealand / Aotearoa"
+            ]
+        },
+        {
+            "53190047": [
+                "173.2836756",
+                "-41.2710849",
+                "Nelson, 7040, New Zealand / Aotearoa"
+            ]
+        },
+        {
+            "7747812337": [
+                "171.517868",
+                "-42.4064105",
+                "Nelson Creek, Grey District, West Coast, New Zealand / Aotearoa"
+            ]
+        },
+        {
+            "7747812337": [
+                "171.517868",
+                "-42.4064105",
+                "Nelson Creek, Grey District, West Coast, New Zealand / Aotearoa"
+            ]
+        },
+        {
+            "1305617739": [
+                "174.7857738",
+                "-36.9237924",
+                "Onehunga, Maungakiekie-T\u0101maki, Auckland, 1061, New Zealand / Aotearoa"
+            ]
+        },
+        {
+            "804395405": [
+                "175.7732759",
+                "-37.8095635",
+                "Matamata, Matamata Piako District, Waikato, 3400, New Zealand / Aotearoa"
+            ]
+        },
+        {
+            "90544883": [
+                "175.6737688",
+                "-38.6977523",
+                "Waihaha River, Taup\u014d District, Waikato, New Zealand / Aotearoa"
+            ]
+        },
+        {
+            "2201262061": [
+                "173.8676393",
+                "-41.510345",
+                "Woodbourne, Marlborough, 7206, New Zealand / Aotearoa"
+            ]
+        },
+        {
+            "7816845164": [
+                "178.2709408",
+                "-37.8688739",
+                "Takamore, Gisborne, New Zealand / Aotearoa"
+            ]
+        },
+        {
+            "295186543": [
+                "178.3187514",
+                "-37.8919955",
+                "Ruatoria, Gisborne, New Zealand / Aotearoa"
+            ]
+        },
+        {
+            "594018009": [
+                "176.2590766545081",
+                "-37.30652605",
+                "South East Bay (Opo), Bay of Plenty, New Zealand / Aotearoa"
+            ]
+        },
+        {
+            "1446104719": [
+                "175.5441536",
+                "-37.2971961",
+                "Kerepehi, Hauraki District, Waikato, 3671, New Zealand / Aotearoa"
+            ]
+        },
+        {
+            "6594394076": [
+                "170.1120371",
+                "-45.8805916",
+                "Maungatua, Dunedin City, Otago, New Zealand / Aotearoa"
+            ]
+        },
+        {
+            "6552350267": [
+                "172.8055315",
+                "-43.587304",
+                "Awaroa / Godley Head, Linwood-Central-Heathcote Community, Christchurch, Christchurch City, Canterbury, New Zealand / Aotearoa"
+            ]
+        },
+        {
+            "295186543": [
+                "178.3187514",
+                "-37.8919955",
+                "Ruatoria, Gisborne, New Zealand / Aotearoa"
+            ]
+        },
+        {
+            "1225171340": [
+                "168.6392664",
+                "-44.4922654",
+                "Pylon, Cascade Track, Queenstown-Lakes District, Otago, New Zealand / Aotearoa"
+            ]
+        },
+        {
+            "295186543": [
+                "178.3187514",
+                "-37.8919955",
+                "Ruatoria, Gisborne, New Zealand / Aotearoa"
+            ]
+        },
+        {
+            "178431340": [
+                "175.1470152",
+                "-40.7585374",
+                "Otaki, Kapiti Coast District, Wellington, 5512, New Zealand / Aotearoa"
+            ]
+        },
+        {
+            "71282622": [
+                "175.6594413",
+                "-40.9495524",
+                "Masterton, Masterton District, Wellington, 5810, New Zealand / Aotearoa"
+            ]
+        },
+        {
+            "6557070149": [
+                "173.8929686",
+                "-41.4720326",
+                "Rapaura, Marlborough, 7273, New Zealand / Aotearoa"
+            ]
+        },
+        {
+            "210140477": [
+                "173.94908455504117",
+                "-41.500856049999996",
+                "Waterlea Racecourse, Old Renwick Road, Mayfield, Blenheim, Marlborough, 7301, New Zealand / Aotearoa"
+            ]
+        },
+        {
+            "7022715604": [
+                "173.8819637",
+                "-39.3169737",
+                "Upper Kahui, South Taranaki District, Taranaki, New Zealand / Aotearoa"
+            ]
+        },
+        {
+            "138912786": [
+                "178.41307232432905",
+                "-37.7925995",
+                "Tikitiki School, 33, Rangitukia Road, Tikitiki, Gisborne, New Zealand / Aotearoa"
+            ]
+        },
+        {
+            "295186543": [
+                "178.3187514",
+                "-37.8919955",
+                "Ruatoria, Gisborne, New Zealand / Aotearoa"
+            ]
+        },
+        {
+            "1633761893": [
+                "171.1742496",
+                "-42.4942851",
+                "South Beach, Grey District, West Coast, New Zealand / Aotearoa"
+            ]
+        },
+        {
+            "71282622": [
+                "175.6594413",
+                "-40.9495524",
+                "Masterton, Masterton District, Wellington, 5810, New Zealand / Aotearoa"
+            ]
+        },
+        {
+            "7811817777": [
+                "175.8295941",
+                "-37.9364467",
+                "Waiomou, South Waikato District, Waikato, 3485, New Zealand / Aotearoa"
+            ]
+        },
+        {
+            "190394259": [
+                "174.1456196260101",
+                "-35.15219825",
+                "Tikitiki Rock, Northland, New Zealand / Aotearoa"
+            ]
+        },
+        {
+            "1093449345": [
+                "174.0733696",
+                "-41.6711969",
+                "Seddon, Marlborough, 7210, New Zealand / Aotearoa"
+            ]
+        },
+        {
+            "2197241798": [
+                "174.0706471",
+                "-41.6417228",
+                "Dashwood, Marlborough, 7210, New Zealand / Aotearoa"
+            ]
+        },
+        {
+            "190394259": [
+                "174.1456196260101",
+                "-35.15219825",
+                "Tikitiki Rock, Northland, New Zealand / Aotearoa"
+            ]
+        },
+        {
+            "295186543": [
+                "178.3187514",
+                "-37.8919955",
+                "Ruatoria, Gisborne, New Zealand / Aotearoa"
+            ]
+        },
+        {
+            "60729094": [
+                "176.1838841",
+                "-37.6380218",
+                "Mount Maunganui, Tauranga, Tauranga City, Bay of Plenty, 3116, New Zealand / Aotearoa"
+            ]
+        },
+        {
+            "295186543": [
+                "178.3187514",
+                "-37.8919955",
+                "Ruatoria, Gisborne, New Zealand / Aotearoa"
+            ]
+        },
+        {
+            "8109094": [
+                "171.6995814750544",
+                "-43.30332105",
+                "Lake Lyndon, Selwyn District, Canterbury, New Zealand / Aotearoa"
+            ]
+        },
+        {
+            "1745319958": [
+                "176.2639949",
+                "-40.1117328",
+                "Ormondville, Tararua District, Manawat\u016b-Whanganui, 4287, New Zealand / Aotearoa"
+            ]
+        },
+        {
+            "7838871047": [
+                "175.5969071",
+                "-40.2550805",
+                "Taonui, Manawat\u016b District, Manawat\u016b-Whanganui, 4478, New Zealand / Aotearoa"
+            ]
+        },
+        {
+            "174903102": [
+                "169.3870836",
+                "-45.2535683",
+                "Alexandra, Vincent Community, Central Otago District, Otago, 9320, New Zealand / Aotearoa"
+            ]
+        },
+        {
+            "44120861": [
+                "170.3727499",
+                "-45.8735509",
+                "Wingatui Road, Janefield, Mosgiel, Dunedin City, Otago, 9024, New Zealand / Aotearoa"
+            ]
+        },
+        {
+            "7857809680": [
+                "178.1375195",
+                "-37.9170484",
+                "Aorangi, Gisborne, New Zealand / Aotearoa"
+            ]
+        },
+        {
+            "28274885": [
+                "172.1203116",
+                "-43.8306743",
+                "Rakaia River, Selwyn District, Canterbury, 7710, New Zealand / Aotearoa"
+            ]
+        },
+        {
+            "281138895": [
+                "175.7983062",
+                "-39.6766915",
+                "Taihape, Rangit\u012bkei District, Manawat\u016b-Whanganui, 4720, New Zealand / Aotearoa"
+            ]
+        },
+        {
+            "7839128541": [
+                "175.6626337",
+                "-40.3675464",
+                "Aokautere, Palmerston North City, Manawat\u016b-Whanganui, 4410, New Zealand / Aotearoa"
+            ]
+        },
+        {
+            "7024894136": [
+                "168.3671254",
+                "-44.0086676",
+                "Cascade Point, Westland District, West Coast, New Zealand / Aotearoa"
+            ]
+        },
+        {
+            "257729229": [
+                "175.5860518",
+                "-40.2450851",
+                "Camerons Line, Aorangi, Feilding, Manawat\u016b District, Manawat\u016b-Whanganui, 4702, New Zealand / Aotearoa"
+            ]
+        },
+        {
+            "692682503": [
+                "172.64487",
+                "-43.5969",
+                "Latters Spur Track, Spreydon-Cashmere Community, Christchurch, Christchurch City, Canterbury, 8022, New Zealand / Aotearoa"
+            ]
+        },
+        {
+            "4312371882": [
+                "175.2251511",
+                "-37.7284022",
+                "Te Rapa, Hamilton City, Waikato, 3241, New Zealand / Aotearoa"
+            ]
+        },
+        {
+            "7816663142": [
+                "178.2925397",
+                "-38.3772697",
+                "Hauiti, Tolaga Bay, Gisborne, 4046, New Zealand / Aotearoa"
+            ]
+        },
+        {
+            "757467562": [
+                "173.47671",
+                "-35.0985405",
+                "Waiwhero Stream, Peria, Te Hiku Community, Far North District, Northland, New Zealand / Aotearoa"
+            ]
+        },
+        {
+            "2261562334": [
+                "172.7198873",
+                "-41.6291481",
+                "Hope Saddle, Tasman, New Zealand / Aotearoa"
+            ]
+        },
+        {
+            "2261562334": [
+                "172.7198873",
+                "-41.6291481",
+                "Hope Saddle, Tasman, New Zealand / Aotearoa"
+            ]
+        },
+        {
+            "340956284": [
+                "171.1961276",
+                "-44.3866643",
+                "Gleniti, Timaru District, Canterbury, 7910, New Zealand / Aotearoa"
+            ]
+        },
+        {
+            "2296595128": [
+                "173.2514774",
+                "-41.9054234",
+                "Boundary, Marlborough, New Zealand / Aotearoa"
+            ]
+        },
+        {
+            "767114115": [
+                "-176.2934403",
+                "-44.265432",
+                "Mangere Island, Chatham Islands, New Zealand / Aotearoa"
+            ]
+        },
+        {
+            "692682503": [
+                "172.64487",
+                "-43.5969",
+                "Latters Spur Track, Spreydon-Cashmere Community, Christchurch, Christchurch City, Canterbury, 8022, New Zealand / Aotearoa"
+            ]
+        },
+        {
+            "269099366": [
+                "167.6907627",
+                "-46.1323096",
+                "Tuatapere, Tuatapere Te Waewae Community, Southland District, Southland, 9620, New Zealand / Aotearoa"
+            ]
+        },
+        {
+            "22988020": [
+                "172.5868508",
+                "-43.5632777",
+                "Fair Place, Hoon Hay, Christchurch, Christchurch City, Canterbury, 8025, New Zealand / Aotearoa"
+            ]
+        },
+        {
+            "2726122": [
+                "172.6309889",
+                "-43.5716034",
+                "Cashmere, Christchurch, Christchurch City, Canterbury, 8022, New Zealand / Aotearoa"
+            ]
+        },
+        {
+            "692682503": [
+                "172.64487",
+                "-43.5969",
+                "Latters Spur Track, Spreydon-Cashmere Community, Christchurch, Christchurch City, Canterbury, 8022, New Zealand / Aotearoa"
+            ]
+        },
+        {
+            "190467802": [
+                "173.81821747820797",
+                "-34.99023255",
+                "Karaka Island, Northland, New Zealand / Aotearoa"
+            ]
+        },
+        {
+            "926073189": [
+                "175.56709656592892",
+                "-40.40081855",
+                "Linton Military Camp, Palmerston North City, Manawat\u016b-Whanganui, New Zealand / Aotearoa"
+            ]
+        },
+        {
+            "3737027926": [
+                "176.3171128",
+                "-38.1109076",
+                "Rotorua Airport, Te Ngae Road, Hannahs Bay, Rotorua District, Bay of Plenty, 3042, New Zealand / Aotearoa"
+            ]
+        },
+        {
+            "5683437080": [
+                "168.7139726",
+                "-45.0295513",
+                "Kawarau Falls, Queenstown-Lakes District, Otago, 9300, New Zealand / Aotearoa"
+            ]
+        },
+        {
+            "179417274": [
+                "177.82505058133626",
+                "-38.636466150000004",
+                "Patutahi Quarry, Gisborne, New Zealand / Aotearoa"
+            ]
+        },
+        {
+            "295188177": [
+                "178.2990965",
+                "-38.3744789",
+                "Tolaga Bay, Gisborne, 4046, New Zealand / Aotearoa"
+            ]
+        },
+        {
+            "5830983285": [
+                "173.9849961",
+                "-41.1293268",
+                "Elie Bay, Marlborough, New Zealand / Aotearoa"
+            ]
+        },
+        {
+            "769875429": [
+                "174.94525259723832",
+                "-36.725902700000006",
+                "Hurakia Lodge, Ocean View Crescent, Waiheke, Auckland, New Zealand / Aotearoa"
+            ]
+        },
+        {
+            "178431340": [
+                "175.1470152",
+                "-40.7585374",
+                "Otaki, Kapiti Coast District, Wellington, 5512, New Zealand / Aotearoa"
+            ]
+        },
+        {
+            "28697997": [
+                "173.8510873",
+                "-41.5442624",
+                "Brancott Road, Renwick, Marlborough, 7206, New Zealand / Aotearoa"
+            ]
+        },
+        {
+            "431100916": [
+                "174.0033924",
+                "-41.97812",
+                "Wiffens Road, Kaik\u014dura District, Canterbury, New Zealand / Aotearoa"
+            ]
+        },
+        {
+            "190467802": [
+                "173.81821747820797",
+                "-34.99023255",
+                "Karaka Island, Northland, New Zealand / Aotearoa"
+            ]
+        },
+        {
+            "12455819": [
+                "175.4155433",
+                "-39.6842645",
+                "Whangaehu River, Manawat\u016b-Whanganui, 4826, New Zealand / Aotearoa"
+            ]
+        },
+        {
+            "172052312": [
+                "174.9166968",
+                "-41.1051387",
+                "Pauatahanui, Porirua, Porirua City, Wellington, 5381, New Zealand / Aotearoa"
+            ]
+        },
+        {
+            "1027255664": [
+                "175.168965",
+                "-36.9481145",
+                "Kawakawa Bay, Franklin, Auckland, 2585, New Zealand / Aotearoa"
+            ]
+        },
+        {
+            "1027255664": [
+                "175.168965",
+                "-36.9481145",
+                "Kawakawa Bay, Franklin, Auckland, 2585, New Zealand / Aotearoa"
+            ]
+        },
+        {
+            "1027255664": [
+                "175.168965",
+                "-36.9481145",
+                "Kawakawa Bay, Franklin, Auckland, 2585, New Zealand / Aotearoa"
+            ]
+        },
+        {
+            "1027255664": [
+                "175.168965",
+                "-36.9481145",
+                "Kawakawa Bay, Franklin, Auckland, 2585, New Zealand / Aotearoa"
+            ]
+        },
+        {
+            "907320461": [
+                "175.1308136",
+                "-41.118303",
+                "Mahers Stream, Maymorn, Upper Hutt City, Wellington, 5371, New Zealand / Aotearoa"
+            ]
+        },
+        {
+            "7831484900": [
+                "176.3892531",
+                "-37.7793814",
+                "Te Tumu, Western Bay of Plenty District, Bay of Plenty, New Zealand / Aotearoa"
+            ]
+        },
+        {
+            "254389328": [
+                "175.7680474",
+                "-36.4351396",
+                "Cuvier Island, Waikato, New Zealand / Aotearoa"
+            ]
+        },
+        {
+            "179101488": [
+                "178.0743894",
+                "-37.8648331",
+                "Mangarara Stream, Gisborne, New Zealand / Aotearoa"
+            ]
+        },
+        {
+            "24239514": [
+                "177.781766",
+                "-38.3493719",
+                "Mangatu River, Gisborne, New Zealand / Aotearoa"
+            ]
+        },
+        {
+            "2932064877": [
+                "176.0854377",
+                "-39.8177827",
+                "Mangaweka, Rangit\u012bkei District, Manawat\u016b-Whanganui, New Zealand / Aotearoa"
+            ]
+        },
+        {
+            "8538167": [
+                "175.00547255035548",
+                "-36.7088606",
+                "Maria Island, Waiheke, Auckland, New Zealand / Aotearoa"
+            ]
+        },
+        {
+            "1040862410": [
+                "173.8048386",
+                "-35.4069776",
+                "Kaikohe, Kaikohe-Hokianga Community, Far North District, Northland, 0405, New Zealand / Aotearoa"
+            ]
+        },
+        {
+            "7821791468": [
+                "175.6771388",
+                "-40.4149784",
+                "Bryant Hill, Palmerston North City, Manawat\u016b-Whanganui, New Zealand / Aotearoa"
+            ]
+        },
+        {
+            "971934103": [
+                "168.65089",
+                "-46.33915",
+                "Morton Mains, Waihopai Toetoe Community, Southland District, Southland, New Zealand / Aotearoa"
+            ]
+        },
+        {
+            "8538160": [
+                "174.96397516739404",
+                "-36.68920835",
+                "Motuhoropapa Island, Waiheke, Auckland, New Zealand / Aotearoa"
+            ]
+        },
+        {
+            "8110877": [
+                "178.3789064",
+                "-37.8210538",
+                "Waiapu River, Ruatoria, Gisborne, 4032, New Zealand / Aotearoa"
+            ]
+        },
+        {
+            "295186543": [
+                "178.3187514",
+                "-37.8919955",
+                "Ruatoria, Gisborne, New Zealand / Aotearoa"
+            ]
+        },
+        {
+            "767114115": [
+                "-176.2934403",
+                "-44.265432",
+                "Mangere Island, Chatham Islands, New Zealand / Aotearoa"
+            ]
+        },
+        {
+            "698489229": [
+                "173.7691367",
+                "-41.3231283",
+                "Kaituna River, Havelock, Marlborough, 7100, New Zealand / Aotearoa"
+            ]
+        },
+        {
+            "10537805": [
+                "167.64197994264362",
+                "-44.664242099999996",
+                "Poison Bay, Southland, New Zealand / Aotearoa"
+            ]
+        },
+        {
+            "5683470463": [
+                "177.9237556",
+                "-38.5584015",
+                "Ormond, Gisborne, New Zealand / Aotearoa"
+            ]
+        },
+        {
+            "174610311": [
+                "175.6852249",
+                "-41.24008",
+                "Wainuioru Road, Martinborough Community, South Wairarapa District, Wellington, New Zealand / Aotearoa"
+            ]
+        },
+        {
+            "71282622": [
+                "175.6594413",
+                "-40.9495524",
+                "Masterton, Masterton District, Wellington, 5810, New Zealand / Aotearoa"
+            ]
+        },
+        {
+            "71282622": [
+                "175.6594413",
+                "-40.9495524",
+                "Masterton, Masterton District, Wellington, 5810, New Zealand / Aotearoa"
+            ]
+        },
+        {
+            "268714237": [
+                "169.6626675",
+                "-46.4484137",
+                "Owaka, Clutha District, Otago, 9535, New Zealand / Aotearoa"
+            ]
+        },
+        {
+            "25841199": [
+                "174.7609446",
+                "-36.8601846",
+                "Northern Motorway, Northwestern Motorway, Newton, Auckland, Waitemat\u0101, Auckland, 1002, New Zealand / Aotearoa"
+            ]
+        },
+        {
+            "7293534639": [
+                "170.578345",
+                "-43.659213",
+                "Observation Hill, Mackenzie District, Canterbury, New Zealand / Aotearoa"
+            ]
+        },
+        {
+            "7056148375": [
+                "173.2565633",
+                "-35.4012707",
+                "Okaihau, Kaikohe-Hokianga Community, Far North District, Northland, New Zealand / Aotearoa"
+            ]
+        },
+        {
+            "7831702094": [
+                "176.0416043",
+                "-37.6634696",
+                "Omokoroa, Western Bay of Plenty District, Bay of Plenty, 3172, New Zealand / Aotearoa"
+            ]
+        },
+        {
+            "544891095": [
+                "171.741977",
+                "-43.2967816",
+                "Porters Pass, Selwyn District, Canterbury, New Zealand / Aotearoa"
+            ]
+        },
+        {
+            "217503623": [
+                "167.66922294533714",
+                "-45.292941",
+                "Lake Orbell, Fiordland Community, Southland District, Southland, New Zealand / Aotearoa"
+            ]
+        },
+        {
+            "6978647306": [
+                "170.4277163",
+                "-45.8499574",
+                "Taieri Plains Lookout, Three Mile Hill Road, Brockville, Dunedin, Dunedin City, Otago, 9011, New Zealand / Aotearoa"
+            ]
+        },
+        {
+            "7022715604": [
+                "173.8819637",
+                "-39.3169737",
+                "Upper Kahui, South Taranaki District, Taranaki, New Zealand / Aotearoa"
+            ]
+        },
+        {
+            "7821791468": [
+                "175.6771388",
+                "-40.4149784",
+                "Bryant Hill, Palmerston North City, Manawat\u016b-Whanganui, New Zealand / Aotearoa"
+            ]
+        },
+        {
+            "2261562334": [
+                "172.7198873",
+                "-41.6291481",
+                "Hope Saddle, Tasman, New Zealand / Aotearoa"
+            ]
+        },
+        {
+            "1225171069": [
+                "175.5762386",
+                "-39.4659168",
+                "Tangiwai Railway Disaster Memorial, State Highway 49, Ruapehu District, Manawat\u016b-Whanganui, New Zealand / Aotearoa"
+            ]
+        },
+        {
+            "183790868": [
+                "175.2384135",
+                "-40.6696693",
+                "\u014chau River, Ohau, Horowhenua District, Manawat\u016b-Whanganui, 5570, New Zealand / Aotearoa"
+            ]
+        },
+        {
+            "439097012": [
+                "174.1527268",
+                "-39.292489",
+                "Waipuku Stream, New Plymouth District, Taranaki, New Zealand / Aotearoa"
+            ]
+        },
+        {
+            "1602098172": [
+                "176.4116208",
+                "-37.8222844",
+                "Paengaroa, Western Bay of Plenty District, Bay of Plenty, New Zealand / Aotearoa"
+            ]
+        },
+        {
+            "142995825": [
+                "176.00456",
+                "-37.6325397",
+                "Pahoia Beach Road, Western Bay of Plenty District, Bay of Plenty, 3180, New Zealand / Aotearoa"
+            ]
+        },
+        {
+            "1769322024": [
+                "173.953374",
+                "-35.3585645",
+                "Pakaraka, Bay of Islands-Whangaroa Community, Far North District, Northland, 0472, New Zealand / Aotearoa"
+            ]
+        },
+        {
+            "554995795": [
+                "175.641582",
+                "-40.9226048",
+                "Waipoua River, Masterton, Masterton District, Wellington, 5888, New Zealand / Aotearoa"
+            ]
+        },
+        {
+            "767114115": [
+                "-176.2934403",
+                "-44.265432",
+                "Mangere Island, Chatham Islands, New Zealand / Aotearoa"
+            ]
+        },
+        {
+            "767114115": [
+                "-176.2934403",
+                "-44.265432",
+                "Mangere Island, Chatham Islands, New Zealand / Aotearoa"
+            ]
+        },
+        {
+            "1576346565": [
+                "172.8847131",
+                "-40.8333822",
+                "Pohara, Tasman, 7183, New Zealand / Aotearoa"
+            ]
+        },
+        {
+            "243637230": [
+                "170.6197581",
+                "-45.8161866",
+                "Port Chalmers, Dunedin City, Otago, 9023, New Zealand / Aotearoa"
+            ]
+        },
+        {
+            "289349659": [
+                "172.5141224",
+                "-43.5800673",
+                "Prebbleton, Selwyn District, Canterbury, 7604, New Zealand / Aotearoa"
+            ]
+        },
+        {
+            "62205826": [
+                "174.852589",
+                "-36.9796873",
+                "Papatoetoe, \u014ctara-Papatoetoe, Auckland, 2025, New Zealand / Aotearoa"
+            ]
+        },
+        {
+            "60024508": [
+                "174.0806474",
+                "-39.0579941",
+                "New Plymouth, New Plymouth District, Taranaki, 4310, New Zealand / Aotearoa"
+            ]
+        },
+        {
+            "24766615": [
+                "174.8450296",
+                "-37.005121",
+                "Puhinui Creek, Puhinui, \u014ctara-Papatoetoe, Auckland, 2025, New Zealand / Aotearoa"
+            ]
+        },
+        {
+            "7831488222": [
+                "176.3716149",
+                "-37.7764982",
+                "Rangiuru, Western Bay of Plenty District, Bay of Plenty, New Zealand / Aotearoa"
+            ]
+        },
+        {
+            "254389328": [
+                "175.7680474",
+                "-36.4351396",
+                "Cuvier Island, Waikato, New Zealand / Aotearoa"
+            ]
+        },
+        {
+            "7022715604": [
+                "173.8819637",
+                "-39.3169737",
+                "Upper Kahui, South Taranaki District, Taranaki, New Zealand / Aotearoa"
+            ]
+        },
+        {
+            "332921308": [
+                "174.1811273",
+                "-35.6596039",
+                "Ruatangata West, Whangarei District, Northland, New Zealand / Aotearoa"
+            ]
+        },
+        {
+            "727322424": [
+                "171.1869146",
+                "-42.6298696",
+                "Kumara, Westland District, West Coast, 7832, New Zealand / Aotearoa"
+            ]
+        },
+        {
+            "727322424": [
+                "171.1869146",
+                "-42.6298696",
+                "Kumara, Westland District, West Coast, 7832, New Zealand / Aotearoa"
+            ]
+        },
+        {
+            "4311073888": [
+                "175.2571104",
+                "-37.7909408",
+                "Frankton, Hamilton City, Waikato, 3204, New Zealand / Aotearoa"
+            ]
+        },
+        {
+            "410464091": [
+                "171.2509786",
+                "-44.3930254",
+                "Timaru, Timaru District, Canterbury, 7910, New Zealand / Aotearoa"
+            ]
+        },
+        {
+            "1877328722": [
+                "174.4567517",
+                "-35.8274035",
+                "One Tree Point, Whangarei District, Northland, 0118, New Zealand / Aotearoa"
+            ]
+        },
+        {
+            "230949518": [
+                "173.7464408",
+                "-41.5763126",
+                "Waihopai Valley Road, Waihopai Valley, Renwick, Marlborough, 7204, New Zealand / Aotearoa"
+            ]
+        },
+        {
+            "4308095": [
+                "174.75590284993928",
+                "-39.1509402",
+                "Stratford District, Manawat\u016b-Whanganui, New Zealand / Aotearoa"
+            ]
+        },
+        {
+            "917703335": [
+                "177.1247475",
+                "-38.8261959",
+                "Mangaone Stream, Wairoa District, Hawke's Bay, New Zealand / Aotearoa"
+            ]
+        },
+        {
+            "1573895816": [
+                "172.856182",
+                "-41.0376406",
+                "T\u0101kaka Hill, Tasman, New Zealand / Aotearoa"
+            ]
+        },
+        {
+            "7816845164": [
+                "178.2709408",
+                "-37.8688739",
+                "Takamore, Gisborne, New Zealand / Aotearoa"
+            ]
+        },
+        {
+            "1633672446": [
+                "171.3117842",
+                "-42.436977",
+                "Taylorville, Grey District, West Coast, New Zealand / Aotearoa"
+            ]
+        },
+        {
+            "198506886": [
+                "175.7217909",
+                "-40.5727229",
+                "Te Awe Awe Road, Tararua District, Manawat\u016b-Whanganui, New Zealand / Aotearoa"
+            ]
+        },
+        {
+            "1524232253": [
+                "175.0836494",
+                "-40.7906713",
+                "Te Horo Beach, Kapiti Coast District, Wellington, New Zealand / Aotearoa"
+            ]
+        },
+        {
+            "70202393": [
+                "175.1250556",
+                "-40.7825007",
+                "Te Waka Road, Otaki, Kapiti Coast District, Wellington, 5581, New Zealand / Aotearoa"
+            ]
+        },
+        {
+            "5653059407": [
+                "175.4189874",
+                "-40.7622939",
+                "Thompson, Carterton District, Wellington, New Zealand / Aotearoa"
+            ]
+        },
+        {
+            "409189921": [
+                "172.8397205",
+                "-42.5116017",
+                "Timberlands, Hanmer Springs, Hurunui District, Canterbury, 7334, New Zealand / Aotearoa"
+            ]
+        },
+        {
+            "295188177": [
+                "178.2990965",
+                "-38.3744789",
+                "Tolaga Bay, Gisborne, 4046, New Zealand / Aotearoa"
+            ]
+        },
+        {
+            "295188177": [
+                "178.2990965",
+                "-38.3744789",
+                "Tolaga Bay, Gisborne, 4046, New Zealand / Aotearoa"
+            ]
+        },
+        {
+            "144175653": [
+                "175.4775104174184",
+                "-36.22640415",
+                "Palmers Beach, Claris, Aotea Great Barrier, Auckland, New Zealand / Aotearoa"
+            ]
+        },
+        {
+            "6583665240": [
+                "170.1332645",
+                "-44.4819676",
+                "Totara Peak, Waitaki District, Canterbury, New Zealand / Aotearoa"
+            ]
+        },
+        {
+            "5542165449": [
+                "173.8021659",
+                "-35.7600253",
+                "Tutamoe, Kaipara District, Northland, New Zealand / Aotearoa"
+            ]
+        },
+        {
+            "254102775": [
+                "175.20413305042896",
+                "-37.70134295",
+                "Horotiu School, Horotiu Bridge Road, Hamilton City, Waikato District, Waikato, 3288, New Zealand / Aotearoa"
+            ]
+        },
+        {
+            "89507711": [
+                "167.0737036",
+                "-46.2110242",
+                "Waitutu River, Tuatapere Te Waewae Community, Southland District, Southland, New Zealand / Aotearoa"
+            ]
+        },
+        {
+            "285257128": [
+                "176.3585281",
+                "-38.2786079",
+                "Waimangu Road, Waimangu, Rotorua District, Bay of Plenty, New Zealand / Aotearoa"
+            ]
+        },
+        {
+            "7768971520": [
+                "173.7132883",
+                "-35.6156335",
+                "Waimatenui, Kaipara District, Northland, New Zealand / Aotearoa"
+            ]
+        },
+        {
+            "7055799433": [
+                "173.2238783",
+                "-35.2944082",
+                "Waimihia, Te Hiku Community, Far North District, Northland, New Zealand / Aotearoa"
+            ]
+        },
+        {
+            "702216800": [
+                "169.5564214",
+                "-46.1667473",
+                "Waiwera River, Clutha District, Otago, New Zealand / Aotearoa"
+            ]
+        },
+        {
+            "251601939": [
+                "174.6642316",
+                "-36.3984914",
+                "Warkworth, Rodney, Auckland, 0910, New Zealand / Aotearoa"
+            ]
+        },
+        {
+            "251601833": [
+                "174.5229842",
+                "-36.2949669",
+                "Wellsford, Rodney, Auckland, 0900, New Zealand / Aotearoa"
+            ]
+        },
+        {
+            "7816880317": [
+                "178.2410288",
+                "-37.9062151",
+                "Whakapourangi, Gisborne, 4032, New Zealand / Aotearoa"
+            ]
+        },
+        {
+            "248764278": [
+                "176.9945977",
+                "-37.9519223",
+                "Whakatane, Whakat\u0101ne District, Bay of Plenty, 3158, New Zealand / Aotearoa"
+            ]
+        },
+        {
+            "7812251071": [
+                "176.332902",
+                "-38.4004962",
+                "Wharepaina, Rotorua District, Waikato, 3083, New Zealand / Aotearoa"
+            ]
+        },
+        {
+            "259582542": [
+                "171.7503327",
+                "-43.9024396",
+                "Ashburton, Ashburton District, Canterbury, 7700, New Zealand / Aotearoa"
+            ]
+        },
+        {
+            "1578912604": [
+                "175.3747987",
+                "-39.3436563",
+                "Horopito, Ruapehu District, Manawat\u016b-Whanganui, New Zealand / Aotearoa"
+            ]
+        }
+    ]
+}

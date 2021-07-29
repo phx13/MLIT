@@ -8,16 +8,57 @@
     <hr>
     <div class="container-fluid">
         <div class="row">
-            <div class="col-8">
+            <div class="col-9">
                 <div id="map2d" class="indexMap"></div>
                 <div style="display: none;">
                     <div id="popup"></div>
                 </div>
             </div>
-            <div class="col-4">
-                <a class="btn btn-primary">Training Data</a>
-                <a class="btn btn-success">Loading Data</a>
-                <table id="btTable" data-toggle="table"></table>
+            <div class="col-3">
+                <p class="display-4">Train</p>
+                <select class="btn btn-outline-warning" id="trainModelSelect">
+                    <option>Rule-based</option>
+                    <option>Model-Ruler</option>
+                    <option>Rule-based Machine-learning</option>
+                    <option>Model-Ruler Machine-learning</option>
+                </select>
+                <a class="btn btn-warning" id="trainModelBtn" onclick="trainModel()">Train Model</a>
+                <select class="btn btn-outline-warning" id="trainDataSelect">
+                    <option>Rule-based</option>
+                    <option>Model-Ruler</option>
+                </select>
+                <a class="btn btn-warning" id="trainDataBtn" onclick="trainData()">Train Data</a>
+
+
+
+
+                <p class="display-4">Update</p>
+                <select class="btn btn-outline-info" id="updateDataSelect">
+                    <option>Rule-based</option>
+                    <option>Model-Ruler</option>
+                    <option>Rule-based Machine-learning</option>
+                    <option>Model-Ruler Machine-learning</option>
+                </select>
+                <a class="btn btn-info" id="updateDataBtn" onclick="updateLocationData()">Update Data</a>
+
+
+
+                <p class="display-4">Display</p>
+                <select class="btn btn-outline-success" id="displayDataSelect">
+                    <option>Rule-based</option>
+                    <option>Model-Ruler</option>
+                    <option>Rule-based Machine-learning</option>
+                    <option>Model-Ruler Machine-learning</option>
+                </select>
+                <a class="btn btn-success" id="updateDataBtn" onclick="displayLocationData()">Display Data</a>
+
+
+
+                <p class="display-4">Statistic</p>
+                <p class="blockquote">Todo: form charts</p>
+                <p class="h4">Total Count: <span id="totalCount"></span></p>
+                <p class="h4">Recognized Count: <span id="recognizedCount"></span></p>
+                <p class="h4">Geocoded Count: <span id="geocodedCount"></span></p>
             </div>
         </div>
     </div>

@@ -1,8 +1,8 @@
 class GeocoderHelper:
     @staticmethod
-    def get_place_id(x):
-        if hasattr(x, 'place_id') and (x.place_id is not None):
-            return x.place_id
+    def get_osm_id(x):
+        if hasattr(x, 'raw') and (x.raw is not None):
+            return x.raw['osm_id']
 
     @staticmethod
     def get_address(x):
